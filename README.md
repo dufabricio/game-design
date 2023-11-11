@@ -13,4 +13,8 @@
    * UV Tookit  ( Arrange and Layout, Layout for Organize )
 
 # Shaders
+   
+   * Go to Rendering
+   * 
     PBR ( files with texture metadata )
+    Object Mode > Mouse Right > Assing New Material > Arnold > aiStandardSurface ( PBR )
