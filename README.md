@@ -20,4 +20,9 @@
    * Select Faces and Assign New Material for create Specifi Texture for Object Part
    * https://polyhaven.com/
 
+# Susbtance
+
+  * Select Object > File > Export Selection > FBC Export
+
+
 
