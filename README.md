@@ -23,6 +23,8 @@
 # Susbtance
 
   * Select Object > File > Export Selection > FBC Export
+  * New, Select File FBX exported
+  * ( Option 2 ) File > Open Sample ( MeetMat )
 
 
 
