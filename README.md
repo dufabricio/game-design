@@ -34,4 +34,5 @@
 
   * https://readyplayer.me/pt-BR
   * https://metahuman.unrealengine.com/
+  * https://quixel.com/bridge
 
