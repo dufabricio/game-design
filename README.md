@@ -33,6 +33,7 @@
 # Characters
 
   * https://readyplayer.me/pt-BR
-  * https://metahuman.unrealengine.com/
-  * https://quixel.com/bridge
+  * https://metahuman.unrealengine.com/ - Create real characters
+  * https://quixel.com/bridge - Export FBX from metahuman
+  * https://www.heroforge.com/ - Create character
 
